@@ -1,5 +1,7 @@
 # AL2: Progressive Activation Loss for Learning General Representations in Classification Neural Networks (ICASSP 2020)
 
+Mirror repository; maintained up-to-date version at: [https://github.com/majedelhelou/AL2](https://github.com/majedelhelou/AL2)
+
 [Majed El Helou](https://majedelhelou.github.io/), Frederike Dümbgen and Sabine Süsstrunk
 
 [**Paper**](https://infoscience.epfl.ch/record/274623/)  ---  [**Supplementary Material**](https://infoscience.epfl.ch/record/271444)
